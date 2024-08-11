@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0013-roman-to-integer) |
+| [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Search
 |  |
@@ -54,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
