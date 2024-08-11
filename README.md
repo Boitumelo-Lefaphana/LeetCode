@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0238-product-of-array-except-self](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Search
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
