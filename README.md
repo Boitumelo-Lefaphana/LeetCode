@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0013-roman-to-integer) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0525-contiguous-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0273-integer-to-english-words) |
 ## String
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0273-integer-to-english-words](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0273-integer-to-english-words) |
