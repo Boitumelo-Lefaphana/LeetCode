@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 ## Sorting
 |  |
 | ------- |
