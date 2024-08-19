@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0650-2-keys-keyboard](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Recursion
 |  |
 | ------- |
