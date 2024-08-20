@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0273-integer-to-english-words](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Array
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
