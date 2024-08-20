@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0401-binary-watch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0401-binary-watch](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
