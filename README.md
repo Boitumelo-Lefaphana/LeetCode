@@ -195,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0401-binary-watch) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
