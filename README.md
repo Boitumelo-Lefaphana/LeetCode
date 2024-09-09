@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0068-text-justification) |
 | [0257-binary-tree-paths](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0273-integer-to-english-words) |
