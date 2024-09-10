@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0016-3sum-closest) |
+| [0045-jump-game-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0068-text-justification) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0045-jump-game-ii) |
 | [0650-2-keys-keyboard](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Recursion
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0045-jump-game-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
