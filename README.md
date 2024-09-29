@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0401-binary-watch) |
 ## Sliding Window
