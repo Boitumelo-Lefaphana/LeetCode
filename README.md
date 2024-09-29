@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0068-text-justification) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0045-jump-game-ii) |
 | [0650-2-keys-keyboard](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0234-palindrome-linked-list) |
