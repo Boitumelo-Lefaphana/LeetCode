@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0029-divide-two-integers) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0401-binary-watch) |
 ## Sliding Window
