@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -210,10 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
