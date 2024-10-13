@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0068-text-justification) |
+| [0212-word-search-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Array
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0068-text-justification) |
 | [0120-triangle](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0212-word-search-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0048-rotate-image) |
+| [0212-word-search-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0212-word-search-ii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Strongly Connected Component
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0212-word-search-ii) |
 ## Tree
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0047-permutations-ii) |
+| [0212-word-search-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0401-binary-watch) |
 ## Database
