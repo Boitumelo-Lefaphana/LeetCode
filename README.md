@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Trie
 |  |
 | ------- |
