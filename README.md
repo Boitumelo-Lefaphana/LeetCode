@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0127-word-ladder) |
+| [0299-bulls-and-cows](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0299-bulls-and-cows](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Array
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Prefix Sum
