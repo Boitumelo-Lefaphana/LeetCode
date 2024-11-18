@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0127-word-ladder) |
 | [0299-bulls-and-cows](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0068-text-justification) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0173-binary-search-tree-iterator) |
