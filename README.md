@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
