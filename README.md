@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0048-rotate-image) |
 | [0212-word-search-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0212-word-search-ii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Strongly Connected Component
 |  |
