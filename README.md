@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2089-maximum-matrix-sum](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0212-word-search-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2089-maximum-matrix-sum](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/2089-maximum-matrix-sum) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [2089-maximum-matrix-sum](https://github.com/Boitumelo-Lefaphana/LeetCode/tree/master/2089-maximum-matrix-sum) |
 ## Sorting
 |  |
 | ------- |
